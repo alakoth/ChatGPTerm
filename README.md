@@ -7,7 +7,7 @@ ChatGPTerm is an interactive command-line application that leverages OpenAI's GP
 - **Voice Interface**: Users can talk to the assistant with their voice.
 - **Transcripts**: Automatically save transcripts of your conversations for future reference.
 
-# Upcoming Features
+## Upcoming Features
 
 - **Code Interpreter**: Execute and test code snippets using voice commands.
 
